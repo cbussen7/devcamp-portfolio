@@ -54,3 +54,5 @@ gem "bootstrap", "~> 5.0.1"
 gem "jquery-rails"
 
 # gem "bussen_view_tool", git: "https://github.com/cbussen7/bussen_view_tool"
+
+gem "petergate", "~> 2.0", ">= 2.0.1"
