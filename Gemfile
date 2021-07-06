@@ -56,3 +56,7 @@ gem "jquery-rails"
 # gem "bussen_view_tool", git: "https://github.com/cbussen7/bussen_view_tool"
 
 gem "petergate", "~> 2.0", ">= 2.0.1"
+
+gem "font-awesome-rails", "~> 4.7", ">= 4.7.0.7"
+
+gem "kaminari", :git => "https://github.com/kaminari/kaminari"
