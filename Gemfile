@@ -62,3 +62,5 @@ gem "font-awesome-rails", "~> 4.7", ">= 4.7.0.7"
 gem "kaminari", :git => "https://github.com/kaminari/kaminari"
 
 gem "popper_js"
+
+gem "jquery-ui-rails", "~> 6.0", ">= 6.0.1"
