@@ -51,8 +51,7 @@ gem "friendly_id", "~> 5.4.0"
 gem "devise", "~> 4.2"
 
 gem "bootstrap", "~> 5.0.1"
-gem "jquery-rails"
-
+gem "jquery-rails", "~> 4.3", ">= 4.3.1"
 # gem "bussen_view_tool", git: "https://github.com/cbussen7/bussen_view_tool"
 
 gem "petergate", "~> 2.0", ">= 2.0.1"
@@ -64,3 +63,11 @@ gem "kaminari", :git => "https://github.com/kaminari/kaminari"
 gem "popper_js"
 
 gem "jquery-ui-rails", "~> 6.0", ">= 6.0.1"
+
+gem "carrierwave"
+
+gem "mini_magick", "~> 4.11"
+
+gem "carrierwave-aws", "~> 1.5"
+
+gem "dotenv-rails", "~> 2.7", ">= 2.7.6"
