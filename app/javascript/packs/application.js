@@ -14,6 +14,7 @@ ActiveStorage.start()
 
 require('jquery')
 require("@nathanvda/cocoon")
+require("gritter")
 
 //= require jquery
 //= require bootstrap-sprockets
@@ -21,6 +22,7 @@ require("@nathanvda/cocoon")
 //= require jquery_ui
 //= require html.sortable
 //= require cocoon
+//= require gritter
 //= require turbolinks
 //= require popper
 //= require_tree .
