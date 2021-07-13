@@ -13,12 +13,14 @@ Turbolinks.start()
 ActiveStorage.start()
 
 require('jquery')
+require("@nathanvda/cocoon")
 
 //= require jquery
 //= require bootstrap-sprockets
 //= require jquery_ujs
 //= require jquery_ui
 //= require html.sortable
+//= require cocoon
 //= require turbolinks
 //= require popper
 //= require_tree .
