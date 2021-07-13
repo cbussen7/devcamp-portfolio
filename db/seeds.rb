@@ -63,3 +63,9 @@ puts "9 portfolio items created"
   )
 end
 puts "3 technologies created"
+
+User.create! do |u|
+  u.email = "test@test.com"
+  u.password = "pinkroster"
+  u.update!(roles: "site_admin")
+end
